@@ -26,6 +26,7 @@
 
 ## Usages
 
+  ```
   const errors = require('microservice-errors');
 
   // throw errors.user.InvalidUserCredentials;
@@ -33,5 +34,6 @@
   // throw errors.client.InvalidTokens
 
   callback(errors.internal.RequestTimeout.errCode);
+  ```
 
 
