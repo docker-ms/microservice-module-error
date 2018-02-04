@@ -1,0 +1,14 @@
+{
+  "name": "microservice-errors",
+  "version": "0.0.1",
+  "description": "This module is for providing all microservices' custom error types.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/v-cube/microservice-module-error.git"
+  }
+}
+
+
